@@ -17,5 +17,5 @@ interest=$(echo "$principal * $rate * $time" | bc)
 echo "Simple Interest: $interest"
 
 
-
+#hhhhhhhhhhhhhhhhhhhhh
 #hagaaaaaaaaaaaaag
